@@ -1,5 +1,4 @@
-// alert("Esto para los documentos");
-
+alert("Pasajero(a), se le recuerda que para abordar el avión debe tener a mano su pasaporte y su tarjeta de embarque. Manténgase atento a los avisos mediante esta plataforma");
 
 function mostrarHora(){
     let time = new Date();
